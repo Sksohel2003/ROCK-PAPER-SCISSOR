@@ -1,4 +1,4 @@
-# Tic Tac Toe game
+# Rock Paper Scissors game
 simple game build with HTML, CSS, JavaScript
 wanna try 
 
